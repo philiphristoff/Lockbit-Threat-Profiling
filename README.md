@@ -1,5 +1,5 @@
 # Lockbit-Threat-Profiling
-This document contains a comprehensive analysis of the Lockbit APT. Please download and open the PDF in this repository to see a better strucutured and presented version of this information.
+This document contains a comprehensive analysis of the Lockbit APT. Please download and open the PDF in this repository to see a better strucutured and presented version of this information with images and graphics included.
 If structure and presentation aren't all that important, you can find all the information below:
 
 Table of contents:
