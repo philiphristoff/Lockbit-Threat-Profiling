@@ -2,7 +2,6 @@
 This document contains a comprehensive analysis of the Lockbit APT. Please download and open the PDF in this repository to see a better strucutured and presented version of this information with images and graphics included.
 If structure and presentation aren't all that important, you can find all the information below:
 
-![image](https://github.com/user-attachments/assets/3d8971b5-2c0a-4949-88f5-469157862c0b)
 ![image](https://github.com/user-attachments/assets/aea62af4-2006-421c-ac14-bbdb8a2b6391)
 ![image](https://github.com/user-attachments/assets/3bc60a7a-c47b-44b5-9a8c-e80933db6c71)
 
